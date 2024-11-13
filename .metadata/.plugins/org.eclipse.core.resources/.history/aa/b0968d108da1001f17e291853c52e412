@@ -1,0 +1,5 @@
+package com.alpha.models.entity;
+
+public class Subject {
+
+}
